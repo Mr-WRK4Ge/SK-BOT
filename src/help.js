@@ -78,7 +78,7 @@ Semoga BOT SlaluBisa  Membantumu
 │ • ${prefix}Water
 │ • ${prefix}Lionlogo <Teks|Teks>
 │ • ${prefix}Textscreen
-│ • ${prefixText3d
+│ • ${prefix}Text3d
 │ • ${prefix}Epep
 │ • ${prefix}Marvelogo <Teks|Teks>
 │ • ${prefix}Snow <Teks|Teks>
